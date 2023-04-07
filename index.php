@@ -1,7 +1,7 @@
 <!doctype html>
 <html profile="http://www.w3.org/2005/10/profile">
 	<head>
-		<title>Recipe Book</title>
+		<title>Recipe Journal</title>
 
 		<!-- basics -->
 		<meta charset="UTF-8">
@@ -9,7 +9,7 @@
 		<link rel="icon" type="image/png" href="http://www.jeffreythompson.org/graphics/favicon.png">
 
 		<!-- font and styles -->
-		<link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,700,700i,900" rel="stylesheet"> 
+		<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 		<link href="stylesheet.css" rel="stylesheet" type="text/css">
 
 		<!-- jquery -->
@@ -26,7 +26,7 @@
 			
 			<!-- table of contents -->
 			<section id="toc">
-				<h1 id="mainTitle">Recipe Book</h1>
+				<h1 id="mainTitle">Recipe Journal</h1>
 				<p id="navigation"></p>
 
 				<ul> <!-- your recipes will go here --> </ul>
